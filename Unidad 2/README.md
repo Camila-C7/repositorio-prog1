@@ -5,4 +5,9 @@
 **Carrera:** Tecnicatura Universitaria en Programacion  
 **Contenido:** Actividades practicas de Git y GitHub realizadas con ramas, conflictos y comandos basicos.
 
+
 Este es un cambio en la rama main.
+
+CAMBIO EN LA RAMA MAIN
+
+CAMBIO EN LA RAMA FEATURE
